@@ -1,1 +1,8 @@
-theme: minima
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Toyosi Ogunsola
+description: Academic portfolio
+show_downloads: false
+baseurl: "/My-CV"
+url: "https://toyosihub.github.io"
