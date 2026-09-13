@@ -1,8 +1,9 @@
+---
 layout: default
 title: Toyosi Ogunsola - Academic Portfolio
 ---
 
-![Featured Image](/assets/featured-image.jpg)
+![Featured Image](/My-Initial-Cv/assets/featured-image.jpg)
 
 # Toyosi Ogunsola
 ## PhD student, Texts and Technology, University of Central Florida
