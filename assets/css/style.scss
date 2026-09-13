@@ -46,6 +46,7 @@ header a.button {
 /* ---------- Content panel ---------- */
 
 #main-content {
+  box-sizing: border-box;
   padding: 40px;
   background: #fff;
   border-radius: 6px;
