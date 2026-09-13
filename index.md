@@ -3,7 +3,6 @@ layout: default
 title: Toyosi Ogunsola - Academic Portfolio
 ---
 
-![Featured Image](/portfolio/assets/featured-image.jpg)
 
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
@@ -113,4 +112,5 @@ Led content strategy across 11+ accounts, lifting engagement and conversion by o
 
 ### Follow Me
 [LinkedIn](https://www.linkedin.com/in/toyosi-alajoke-ogunsola/)
+
 [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf)
