@@ -3,7 +3,7 @@ layout: default
 title: Toyosi Ogunsola - Academic Portfolio
 ---
 
-![Featured Image](/My-Initial-Cv/assets/featured-image.jpg)
+![Featured Image](/My-Cv/assets/featured-image.jpg)
 
 # Toyosi Ogunsola
 ## PhD student, Texts and Technology, University of Central Florida
@@ -13,8 +13,10 @@ I'm a researcher and UX practitioner studying how AI systems shape the way young
 - 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) · 
 [Email](mailto:toyosi.ogunsola@ucf.edu)
 ---
+
  
- ### About Me
+ ### About Me 
+
 I study digital behavior through the lens of individual differences. My work
 asks how people preserve agency and self-authorship in environments increasingly
 shaped by algorithmic and AI-driven systems — with a focus on adolescents and
@@ -57,6 +59,7 @@ Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst A
 4. Ogunsola, O. (2024, November). *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram* [Poster]. EMDD Symposium, Muncie, IN.
 5. Ogunsola, O. (2024, November). *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram* [Poster]. Indiana Chapter of UXPA, Fishers, IN.
 6. Ogunsola, O. (2024, May). *Evaluating ChatGPT's effectiveness in brainstorming user personas and pain points for design thinking* [Poster]. EMDD Symposium, Muncie, IN.
+
 ---
  
  
@@ -105,8 +108,7 @@ Led content strategy across 11+ accounts, lifting engagement and conversion by o
 
 
 ### Contact
-- Email: toyosi.ogunsola@ucf.edu
-- Office:
+[Email Me](toyosi.ogunsola@ucf.edu)
 
 ### Follow Me
 [LinkedIn](https://www.linkedin.com/in/toyosi-alajoke-ogunsola/)
