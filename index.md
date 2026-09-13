@@ -3,11 +3,9 @@ layout: default
 title: Toyosi Ogunsola - Academic Portfolio
 ---
 
-![Featured Image](/My-Initial-CV/assets/featured-image.jpg)
+![Featured Image](/portfolio/assets/featured-image.jpg)
 
-
-
-![Featured Image](/assets/featured-image.jpg)
+<img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
 # Toyosi Ogunsola
 ## PhD student, Texts and Technology, University of Central Florida
@@ -18,8 +16,7 @@ I'm a researcher and UX practitioner studying how AI systems shape the way young
 [Email](mailto:toyosi.ogunsola@ucf.edu)
 ---
 
- 
- ### About Me
+### About Me
 
 I study digital behavior through the lens of individual differences. My work
 asks how people preserve agency and self-authorship in environments increasingly

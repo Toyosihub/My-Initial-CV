@@ -4,5 +4,5 @@ plugins:
 title: Toyosi Ogunsola
 description: Academic portfolio
 show_downloads: false
-baseurl: "/My-Initial-Cv"
+baseurl: "/portfolio"
 url: "https://toyosihub.github.io"
