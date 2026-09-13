@@ -1,0 +1,136 @@
+---
+---
+
+@import "jekyll-theme-architect";
+
+/* ---------- Base ---------- */
+
+body {
+  font-family: 'Source Sans 3', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #3f3a45;
+  background: #d9cced;
+}
+
+a { color: #7a4fa8; }
+a:hover { color: #5e3a84; }
+
+/* ---------- Header banner ---------- */
+
+header {
+  background: #4a3462;
+  border-bottom: solid 1px #3b2a4e;
+}
+
+header h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 56px;
+  letter-spacing: 0;
+}
+
+header h2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: #c9b6e3;
+}
+
+header a.button {
+  background: #4a3462;
+  background-image: none;
+  width: auto;
+  height: auto;
+  padding: 12px 18px;
+  border-radius: 4px;
+}
+
+/* ---------- Content panel ---------- */
+
+#main-content {
+  padding: 40px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+#main-content h1,
+#main-content h2,
+#main-content h3,
+#main-content h4,
+#main-content h5,
+#main-content h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: #3b2a4e;
+}
+
+/* Remove the theme's slash marks before headings */
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before {
+  content: none;
+  margin-left: 0;
+  padding-right: 0;
+}
+
+/* ---------- Sidebar ---------- */
+
+aside#sidebar {
+  background-image: none;
+  padding-left: 30px;
+  font-size: 14px;
+}
+
+aside#sidebar img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+aside a.button {
+  display: block;
+  width: auto;
+  height: auto;
+  padding: 10px 16px;
+  padding-left: 16px;
+  margin-bottom: 12px;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.2;
+  text-align: center;
+  color: #fff;
+  background: #4a3462;
+  background-image: none;
+  border-radius: 4px;
+}
+
+aside a.button:hover { background: #3b2a4e; }
+
+/* ---------- Code blocks ---------- */
+
+code {
+  background-color: #f4f0f9;
+  border: solid 1px #ddd2ec;
+}
+
+pre code { color: #5e3a84; }
+
+/* ---------- Mobile fixes ---------- */
+
+@media only screen and (max-width: 767px) {
+  /* Theme hides the nav entirely on phones — put it back */
+  aside#sidebar a.button { display: block; }
+
+  aside#sidebar { padding-left: 0; }
+
+  header h1 { font-size: 40px; }
+
+  header a.button {
+    color: #fff;
+    background-color: #4a3462;
+    background-image: none;
+  }
+}
