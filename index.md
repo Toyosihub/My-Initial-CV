@@ -65,6 +65,12 @@ Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst A
  
 ## Professional Experience
  
+**Research Associate & Teaching Assistant Grader**
+University of Central Florida
+Teaching assistant grader for the Digital Cultures & Humanities Course.
+Research Associate at the Center of Humanities & Digital Research.
+
+
 **Content Manager**  
 Hoel Roofing & Remodeling
 *May 2025 – May 2026* 
